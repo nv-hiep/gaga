@@ -2,9 +2,10 @@
 This document includes the data and analysis notebooks associated with the study entitled "Multi-wavelength probes of the Milky Way’s Cold Interstellar Medium: Radio HI and Optical KI Absorption with GASKAP and GALAH" (accepted for publication in the Monthly Notices of the Royal Astronomical Society, MNRAS).
 
 
-**Title**: Multi-wavelength probes of the Milky Way’s Cold Interstellar Medium: Radio HI and Optical KI Absorption with GASKAP and GALAH
+**Title**:\
+Multi-wavelength probes of the Milky Way’s Cold Interstellar Medium: Radio HI and Optical KI Absorption with GASKAP and GALAH
 
-**Abstract**:
+**Abstract**:\
 We present a comparative analysis of interstellar hydrogen (HI) and potassium (KI) absorption from the radio and optical surveys, GASKAP and GALAH, to study the physical and kinematic properties of the cold interstellar medium (ISM) in the Milky Way foreground towards the Magellanic Clouds. By comparing GASKAP HI absorption with interstellar KI absorption detected in GALAH spectra of nearby stars (within 12 arcmin angular distance or a spatial separation of ∼0.75 pc), we reveal a strong kinematic correlation between these two tracers of the cold neutral ISM. The velocity offsets between matched HI and KI absorption components are small, with a mean (median) offset of −1.3 (−1.2) km s−1 and a standard deviation of 2.3 km s−1. The high degree of kinematic consistency suggests a close spatial association between Ki and cold HI gas. Correlation analyses reveal a moderate positive relationship between HI and KI line-of-sight properties, such as KI column density with HI column density or HI brightness temperature. We observe a ∼63% overlap in the detection of both species towards 290 (out of 462) GASKAP HI absorption lines of sight, and estimate a median KI/HI abundance ratio of ∼2.3×10^(−10), in excellent agreement with previous findings. Our work opens up an exciting avenue of Galactic research that uses large-scale surveys in the radio and optical wavelengths to probe the neutral interstellar medium through its diverse tracers.
 
 
