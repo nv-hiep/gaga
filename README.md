@@ -11,7 +11,8 @@ We present a comparative analysis of interstellar hydrogen (HI) and potassium (K
 
 <img width="2493" height="1140" alt="GASKAP_GALAH_los" src="https://github.com/user-attachments/assets/94beb280-4d93-4118-bb4c-f992b7b1d4d7" />
 
-
+**An interactive 3D view is available** at https://nv-hiep.github.io/gaga \
+\
 **Authors**:\
 Hiep Nguyen $^{1★}$\
 Sven Buder $^{1,2}$\
